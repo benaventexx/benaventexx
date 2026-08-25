@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm João 👋
 
-<!--
-**benaventexx/benaventexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer who ships fast and owns projects end to end.
 
-Here are some ideas to get you started:
+I design, build and deploy real products — from internal business platforms 
+used daily by real teams, to hardware/IoT systems built from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** Building [O Casalinho](link) & [Casa Cláudia](link) — full 
+staff/operations platforms (React, TypeScript, Firebase) for two small businesses.
+
+**Stack:** React · TypeScript · Firebase · Node.js · Python · C#
+
+**Portfolio:** [joaobenavente.com](https://joaobenavente.com)  
+**Contact:** [LinkedIn](https://linkedin.com/in/joao-benavente)
